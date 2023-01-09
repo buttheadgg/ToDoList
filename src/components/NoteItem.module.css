@@ -1,0 +1,9 @@
+.close {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.text {
+  max-width: 560px;
+  word-wrap: break-word;
+}
