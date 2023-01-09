@@ -31,7 +31,7 @@ const NoteItem = (props) => {
             value={valueBody}
             onChange={(e) => setValueBody(e.target.value)}
           />
-          <MyButton onClick={updateState}>Сохранить</MyButton>
+          <MyButton onClick={updateState}>Save</MyButton>
         </div>
       ) : (
         <div
